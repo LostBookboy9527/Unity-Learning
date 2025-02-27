@@ -33,8 +33,8 @@ Unity 版本：建议使用 Unity 2021.3 LTS 或更新版本
 🚀 如何使用  
 1.克隆项目
 ```csharp
-git clone https://github.com/your-repo-name/unity-2d-game-tutorial.git
-cd unity-2d-game-tutorial
+git clone https://github.com/LostBookboy9527/Unity-learning-basic-.git
+cd Unity-learning-basic-
 ```
 2.打开 Unity
 使用 Unity Hub 添加该项目，并使用推荐的 Unity 版本打开。
