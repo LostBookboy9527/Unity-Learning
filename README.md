@@ -25,10 +25,10 @@ Unity 初学者，希望学习如何从零开始制作 2D 游戏。
 | **第10节** | 项目整合与发布      | 整合优化、打包发布           |  ❌  |
 
 🛠 环境要求  
-Unity 版本：建议使用 Unity 2021.3 LTS 或更新版本
-开发语言：C#
-操作系统：Windows / Mac / Linux 皆可
-代码编辑器：推荐使用 Visual Studio / Rider / VS Code
+Unity 版本：建议使用 Unity 2021.3 LTS 或更新版本  
+开发语言：C#  
+操作系统：Windows / Mac / Linux  
+代码编辑器：推荐使用 Visual Studio / Rider / VS Code  
 
 🚀 如何使用  
 1.克隆项目
