@@ -1,4 +1,4 @@
-# Unity-learning-basic-
+# Unity-Learning
 📌 项目介绍  
 本项目是一个 Unity 2D 游戏开发教学案例，旨在帮助初学者通过 实践开发一款完整的 2D 游戏，系统性学习 Unity 2D 游戏开发的基础知识和核心技术。
 本课程采用 循序渐进 的方式，每一节课 教授一个关键知识点，并引导学生完成游戏的每个部分，最终完成完整的游戏项目。
@@ -32,9 +32,9 @@ Unity 版本：建议使用 Unity 2021.3 LTS 或更新版本
 
 🚀 如何使用  
 1.克隆项目
-```csharp
-git clone https://github.com/LostBookboy9527/Unity-learning-basic-.git
-cd Unity-learning-basic-
+```csharpL
+git clone https://github.com/LostBookboy9527/Unity-Learning.git
+cd Unity-Learning
 ```
 2.打开 Unity
 使用 Unity Hub 添加该项目，并使用推荐的 Unity 版本打开。
@@ -53,5 +53,3 @@ git checkout lesson-2  # 切换到第2节课代码
 2.动手练习：阅读代码后，自己尝试修改或扩展功能。  
 3.讨论交流：如有疑问，可以在 Issues 里提出，或者在 微信 / QQ 群中讨论。
 
-📜 许可协议  
-本项目遵循 MIT License，可自由使用和修改，但请保留原作者信息。
